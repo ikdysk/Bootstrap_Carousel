@@ -1,3 +1,3 @@
 # Bootstrap_Carousel
 navbar と carousel をカスタマイズし，さらにいくつかのコンポーネントを追加しています。
-![サンプル画像_carousel](https://user-images.githubusercontent.com/53010346/68410699-83897000-01cc-11ea-8146-5a3b8bbe2112.png)
+![carousel](https://user-images.githubusercontent.com/53010346/70334345-a4ef8180-1888-11ea-9bd6-3d9a7f2c02a6.png)
